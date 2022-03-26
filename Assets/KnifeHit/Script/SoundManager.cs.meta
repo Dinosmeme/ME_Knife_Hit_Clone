@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3337fb2c360ec784b8b03b5e5d3abfaf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - efxSource: {instanceID: 0}
+  - btnSfx: {fileID: 8300000, guid: 3a76384b567f5324ea3e97ee73391ec1, type: 3}
+  - timeSfx: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
